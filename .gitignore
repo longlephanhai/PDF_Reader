@@ -1,0 +1,11 @@
+# Secrets
+gemini_api_key*
+pdf_bookmarks.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
